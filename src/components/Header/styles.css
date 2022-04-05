@@ -1,0 +1,10 @@
+.todo-header {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+.todo-header .todo-header-heading {
+    margin: 0;
+    padding: 15px;
+}
